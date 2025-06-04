@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio/Bootstrap.unity
+    guid: 06a1012b91453a04c8b9fdba951a4b5c
+  - enabled: 1
+    path: Assets/Scenes/coisas_menu/MainMenu.unity
+    guid: 07c38b3a98f123443b7c508564fe4948
+  - enabled: 1
+    path: Assets/Scenes/levels/Level1/Level1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/jogo_roda/roda_da_sorte.unity
+    guid: 6a76a3100024bfb45921742c5e8865ea
+  - enabled: 1
+    path: Assets/Scenes/levels/Level2/Level2.unity
+    guid: 67c81ce58a2bb0e40aad3f12d5310812
+  - enabled: 1
+    path: Assets/Scenes/jogo_slot_machine/slot_machine.unity
+    guid: 0789947e6eb7f1345a801184b75237ef
+  - enabled: 1
+    path: Assets/Scenes/levels/Level3/Level3.unity
+    guid: 18519d246c34c254589669e2c851731e
+  - enabled: 1
+    path: Assets/Scenes/jogo_hi-lo/HI-LO.unity
+    guid: d9672b3d020315c4e88484247a04f151
+  - enabled: 1
+    path: Assets/Scenes/Loja/Loja.unity
+    guid: 0fe0c2d0236322f4c936cbb0c9ca1a9f
+  - enabled: 1
+    path: Assets/Scenes/levels/InfiniteLevel/InfiniteLevel.unity
+    guid: 2c4ddb1d782c3cc4e84c2a0213662953
+  - enabled: 1
+    path: Assets/Scenes/levels/InfiniteLevel/roda_da_sorte_INF.unity
+    guid: 4670c55e5a85e4d4c8d1c4c20cbd4522
+  - enabled: 1
+    path: Assets/Scenes/levels/InfiniteLevel/slot_machine_INF.unity
+    guid: 49425935d959b3b449b2552b6dbb4c9f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
